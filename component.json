@@ -1,7 +1,7 @@
 {
   "name": "deja",
   "repo": "the-swerve/deja",
-  "description": "Declarative and reactive client side templating.",
+  "description": "Deprecated in favor of the-swerve/temple",
   "version": "0.3.0",
   "keywords": [
     "reactive",

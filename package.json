@@ -1,7 +1,7 @@
 {
   "name": "deja-view",
   "version": "0.3.0",
-  "description": "Simple and declarative client-side templating.",
+  "description": "Deprecated in favor of the-swerve/temple",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
